@@ -23,26 +23,15 @@ The dataset provided to you consists of a list of all the TV shows/movies availa
 
 Features | Description | 
 --- | --- 
-Show_id| Unique ID for every Movie / TV show
-
-Type| Identifier - A Movie or TV Show
-
-Title: Title of the Movie / TV Show
-
-Director: Director of the Movie
-
-Cast: Actors involved in the movie/show
-
-Country: The country where the movie/show was produced
-
-Date_added: Date it was added on Netflix
-
-Release_year: Actual Release year of the movie/show
-
-Rating: TV Rating of the movie/show
-
-Duration: Total Duration - in minutes or number of seasons
-
-Listed_in: Genre
-
-Description: The summary description
+Show_id | Unique ID for every Movie / TV show
+Type | Identifier - A Movie or TV Show
+Title | Title of the Movie / TV Show
+Director | Director of the Movie
+Cast | Actors involved in the movie/show
+Country | The country where the movie/show was produced
+Date_added | Date it was added on Netflix
+Release_year | Actual Release year of the movie/show
+Rating | TV Rating of the movie/show
+Duration | Total Duration - in minutes or number of seasons
+Listed_in | Genre
+Description | The summary description
