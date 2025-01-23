@@ -20,8 +20,8 @@ https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/
 # Description:
 
 The dataset provided to you consists of a list of all the TV shows/movies available on Netflix:
-
-Show_id: Unique ID for every Movie / TV show
+|---|---|
+|Show_id| Unique ID for every Movie / TV show
 
 Type: Identifier - A Movie or TV Show
 
