@@ -23,9 +23,9 @@ The dataset provided to you consists of a list of all the TV shows/movies availa
 
 Features | Description | 
 --- | --- 
-|Show_id| Unique ID for every Movie / TV show
+Show_id| Unique ID for every Movie / TV show
 
-Type: Identifier - A Movie or TV Show
+Type| Identifier - A Movie or TV Show
 
 Title: Title of the Movie / TV Show
 
